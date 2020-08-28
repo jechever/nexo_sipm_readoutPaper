@@ -13,9 +13,7 @@ questions, comments, or suggestions.
 ## Overview
 
 Scripts and methods for analyzing CAEN Wavvedump data are given in 
-their respective directories. 
-positions and amplitudes of a characteristic pulse shape within a
-larger data array.       
+their respective directories.      
 
 ### Features
 
